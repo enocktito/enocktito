@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+#    This is my Ultimate Learning path
 
-You can use the [editor on GitHub](https://github.com/enocktito/enocktito/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##    Tools
+___
+- [ ]  Ansible *(Configurtaion Management)* 
+- [ ]  Git *(Version Control System)*
+- [ ]  Gitlab *(CI/CD)*
+- [ ]  Github Actions *(CI/CD)*
+- [ ]  Jenkins *(CI/CD)*
+- [ ]  Docker Core *(Container)*
+- [ ]  Kubernetes *(Orchestration)*
+- [ ]  Istio *(Mesh)*
+- [ ]  Yaml *(Language)*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hashicorp tools
+___
+- [ ] Vault *(Secret Management)*
+- [ ] Terraform *(Provisioning)*
+- [ ] Nomad *(Orchestration Container or not)*
+- [ ] Vagrant *(Dev Env)*
+- [ ] Consul *(Mesh)*
 
-### Markdown
+## Monitoring
+___
+- [ ] Prometheus
+- [ ] Grafana
+- [ ] Zabbix
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Data
+___
+- [ ] ELK Stack
 
-```markdown
-Syntax highlighted code block
+## Virtualization
+___
+- [ ] Xen Server
+- [ ] Proxmox
 
-# Header 1
-## Header 2
-### Header 3
+## System
+___
+- [ ] NGINX *(Web Reverse_Proxy Load_Balancer Content_Caching)*
+- [ ] LPIC-3 Virtualization & High avaibility
+- [ ] RHCSA
 
-- Bulleted
-- List
+## Scripting
+___
+- [ ] Python
+- [ ] Bash
 
-1. Numbered
-2. List
+## Cloud
+___
 
-**Bold** and _Italic_ and `Code` text
+> AWS
+- [ ] AWS Certified Cloud Practitionner
+- [ ] AWS Certified SysOps Administrator
+- [ ] AWS Certified DevOps Engineer
+- [ ] AWS Certified Solutions Architect
 
-[Link](url) and ![Image](src)
-```
+> GCP
+- [ ] GCP DevOps Engineer
+- [ ] GCP Certified Associate Cloud Engineer
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> OpenStack
+- [ ] Labs with OpenStack
 
-### Jekyll Themes
+> Cloud Foundry 
+- [ ] Cloud Foundry Certified Developper
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enocktito/enocktito/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Security
+___
+- [ ] Certified Network Defender
+- [ ] Securing a pipepline
+- [ ] Scenario Based Docker security
+- [ ] Kubernetes security
+- [ ] Securing Cloud infrastructure *(IaaS SaaS PaaS)*
+- [ ] Secure Container Host System
+- [ ] Scenario Based Docker Security
