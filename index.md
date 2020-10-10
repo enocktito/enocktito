@@ -2,12 +2,12 @@
 
 ##    Tools
 ___
-- [ ]  Ansible *(Configurtaion Management)* 
+- [x]  Ansible *(Configurtaion Management)* 
 - [ ]  Git *(Version Control System)*
 - [ ]  Gitlab *(CI/CD)*
 - [ ]  Github Actions *(CI/CD)*
 - [ ]  Jenkins *(CI/CD)*
-- [ ]  Docker Core *(Container)*
+- [x]  Docker Core *(Container)*
 - [ ]  Kubernetes *(Orchestration)*
 - [ ]  Istio *(Mesh)*
 - [x]  Yaml *(Language)*
