@@ -1,6 +1,6 @@
 #    This is my Ultimate Learning path
-
-##    Tools
+# Progression totale : 5/34
+##    Tools (4/9)
 ___
 - [x]  Ansible *(Configurtaion Management)* 
 - [ ]  Git *(Version Control System)*
@@ -12,7 +12,7 @@ ___
 - [ ]  Istio *(Mesh)*
 - [x]  Yaml *(Language)*
 
-## Hashicorp tools
+## Hashicorp tools (0/5)
 ___
 - [ ] Vault *(Secret Management)*
 - [ ] Terraform *(Provisioning)*
@@ -20,28 +20,28 @@ ___
 - [ ] Vagrant *(Dev Env)*
 - [ ] Consul *(Mesh)*
 
-## Monitoring
+## Monitoring (0/3)
 ___
 - [ ] Prometheus
 - [ ] Grafana
 - [ ] Zabbix
 
-## Data
+## Data (0/1)
 ___
 - [ ] ELK Stack
 
-## Virtualization
+## Virtualization (0/2)
 ___
 - [ ] Xen Server
 - [ ] Proxmox
 
-## System
+## System (1/3)
 ___
-- [ ] NGINX *(Web Reverse_Proxy Load_Balancer Content_Caching)*
+- [x] NGINX *(Web Reverse_Proxy Load_Balancer Content_Caching)*
 - [ ] LPIC-3 Virtualization & High avaibility
 - [ ] RHCSA
 
-## Scripting
+## Scripting (0/2)
 ___
 - [ ] Python
 - [ ] Bash
@@ -49,25 +49,17 @@ ___
 ## Cloud
 ___
 
-> AWS
+> AWS (0/4)
 - [ ] AWS Certified Cloud Practitionner
 - [ ] AWS Certified SysOps Administrator
 - [ ] AWS Certified DevOps Engineer
 - [ ] AWS Certified Solutions Architect
 
-> GCP
-- [ ] GCP DevOps Engineer
-- [ ] GCP Certified Associate Cloud Engineer
-
-> OpenStack
+> OpenStack (0/1)
 - [ ] Labs with OpenStack
 
-> Cloud Foundry 
-- [ ] Cloud Foundry Certified Developper
-
-## Security
+## Security (0/6)
 ___
-- [ ] Certified Network Defender
 - [ ] Securing a pipepline
 - [ ] Scenario Based Docker security
 - [ ] Kubernetes security
