@@ -5,7 +5,7 @@ ___
 - [x]  Ansible *(Configurtaion Management)* 
 - [ ]  Git *(Version Control System)*
 - [ ]  Gitlab *(CI/CD)*
-- [ ]  Github Actions *(CI/CD)*
+- [x]  Github Actions *(CI/CD)*
 - [ ]  Jenkins *(CI/CD)*
 - [x]  Docker Core *(Container)*
 - [ ]  Kubernetes *(Orchestration)*
