@@ -1,5 +1,5 @@
 #    This is my Ultimate Learning path
-# Progression totale : 5/34
+# Progression totale : 10/32
 ##    Tools (7/11)
 ___
 - [x]  Ansible *(Configurtaion Management)* 
@@ -30,15 +30,15 @@ ___
 ___
 - [ ] ELK Stack
 
-## System (1/3)
+## System (1/2)
 ___
 - [x] NGINX *(Web Reverse_Proxy Load_Balancer Content_Caching)*
 - [ ] RHCSA
 
-## Scripting/Programming (0/2)
+## Scripting/Programming (1/2)
 ___
 - [ ] Rustlang
-- [ ] Bash
+- [x] Bash
 
 ## Cloud
 ___
