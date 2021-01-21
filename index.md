@@ -1,59 +1,52 @@
 #    This is my Ultimate Learning path
 # Progression totale : 5/34
-##    Tools (4/9)
+##    Tools (7/11)
 ___
 - [x]  Ansible *(Configurtaion Management)* 
-- [ ]  Git *(Version Control System)*
-- [ ]  Gitlab *(CI/CD)*
+- [x]  Git *(Version Control System)*
+- [x]  Gitlab *(CI/CD)*
 - [x]  Github Actions *(CI/CD)*
-- [ ]  Jenkins *(CI/CD)*
+- [x]  Jenkins *(CI/CD)*
 - [x]  Docker Core *(Container)*
-- [ ]  Kubernetes *(Orchestration)*
+- [ ]  Kubernetes (CKAD-CKA.cert prep) *(Orchestration)*
 - [ ]  Istio *(Mesh)*
+- [ ]  Linkerd *(Mesh)*
+- [ ]  Pulumi *(Provisioning)*
 - [x]  Yaml *(Language)*
 
-## Hashicorp tools (0/5)
+## Hashicorp tools (1/4)
 ___
 - [ ] Vault *(Secret Management)*
 - [ ] Terraform *(Provisioning)*
-- [ ] Nomad *(Orchestration Container or not)*
-- [ ] Vagrant *(Dev Env)*
+- [x] Vagrant *(Dev Env)*
 - [ ] Consul *(Mesh)*
 
-## Monitoring (0/3)
+## Monitoring (0/2)
 ___
 - [ ] Prometheus
 - [ ] Grafana
-- [ ] Zabbix
 
 ## Data (0/1)
 ___
 - [ ] ELK Stack
 
-## Virtualization (0/2)
-___
-- [ ] Xen Server
-- [ ] Proxmox
-
 ## System (1/3)
 ___
 - [x] NGINX *(Web Reverse_Proxy Load_Balancer Content_Caching)*
-- [ ] LPIC-3 Virtualization & High avaibility
 - [ ] RHCSA
 
-## Scripting (0/2)
+## Scripting/Programming (0/2)
 ___
-- [ ] Python
+- [ ] Rustlang
 - [ ] Bash
 
 ## Cloud
 ___
 
-> AWS (0/4)
-- [ ] AWS Certified Cloud Practitionner
-- [ ] AWS Certified SysOps Administrator
-- [ ] AWS Certified DevOps Engineer
-- [ ] AWS Certified Solutions Architect
+> GCP (0/3)
+- [ ] Google Cloud Certified Associate Cloud Engineer (prep)
+- [ ] Google Cloud Certified Cloud Architect (prep+cert)
+- [ ] Google Cloud Certified Cloud DevOps Engineer (prep)
 
 > OpenStack (0/1)
 - [ ] Labs with OpenStack
@@ -63,6 +56,7 @@ ___
 - [ ] Securing a pipepline
 - [ ] Scenario Based Docker security
 - [ ] Kubernetes security
+- [ ] CKS (prep+cert)
 - [ ] Securing Cloud infrastructure *(IaaS SaaS PaaS)*
 - [ ] Secure Container Host System
 - [ ] Scenario Based Docker Security
